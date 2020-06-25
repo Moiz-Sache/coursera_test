@@ -27,6 +27,14 @@ p {
 .row {
 	width: 100% ;
 }
+
+.cont1 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #A52A2A ;
+	border: 1px solid black;
+}
 /*
 .subtopic1 {
 	position: absolute;
