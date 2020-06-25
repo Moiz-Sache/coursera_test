@@ -12,26 +12,49 @@ h1 {
 .row {
 	width: 100% ;
 }
-.subtopic {
+.subtopic1 {
 	position: absolute;
 	top: 0;
 	right: 0;
+	background-color: #A52A2A ;
+	height: 7px;
+	width: 20px;
+
+}
+.subtopic2 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #DEB887 ;
+	height: 7px;
+	width: 20px;
+}
+.subtopic3 {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #5F9EA0 ;
+	height: 7px;
+	width: 20px;
 }
 
 .sect1 {
-	background-color: #A52A2A ;
+	background-color: grey ;
 	position: relative;
-	margin: 5px 5px 5px 5px ;
+	height: 95% ;
+	width: 95% ;
 }
 .sect2 {
-	background-color: #DEB887 ;
+	background-color: grey ;
 	position: relative;
-	margin: 5px 5px 5px 5px ;
+	height: 95% ;
+	width: 95% ;
 }
 .sect3 {
-	background-color: #5F9EA0 ;
+	background-color: grey ;
 	position: relative;
-	margin: 5px 5px 5px 5px ;
+	height: 95% ;
+	width: 95% ;
 }
 .p1 {
 	font-family: "Times New Roman", Times, serif ;
