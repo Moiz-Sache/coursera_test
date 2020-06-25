@@ -2,7 +2,6 @@
 
 * {
 	box-sizing: border-box;
-	padding : 10px ;
 }
 
 h1 {
@@ -14,18 +13,20 @@ h1 {
 	width: 100% ;
 }
 .subtopic {
-	top: 6px ;
-	right: 10px ;
+	float: right;
 }
 
 .sect1 {
 	background-color: #A52A2A ;
+	padding-bottom: 10px ;
 }
 .sect2 {
 	background-color: #DEB887 ;
+	padding-bottom: 10px ;
 }
 .sect3 {
 	background-color: #5F9EA0 ;
+	padding-bottom: 10px ;
 }
 .p1 {
 	font-family: "Times New Roman", Times, serif ;
