@@ -2,6 +2,7 @@
 
 * {
 	box-sizing: border-box;
+	padding : 10px ;
 }
 
 h1 {
@@ -13,7 +14,8 @@ h1 {
 	width: 100% ;
 }
 .subtopic {
-	text-align: top right
+	top: 6px ;
+	right: 10px ;
 }
 
 .sect1 {
@@ -26,15 +28,15 @@ h1 {
 	background-color: #5F9EA0 ;
 }
 .p1 {
-	font-family: Halvetica ;
+	font-family: "Times New Roman", Times, serif ;
 }
 
 .p2 {
-	font-family: Times ;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .p3 {
-	font-family: Western
+	font-family: Georgia, Times, serif ;
 }
 
 /********** Desktop devices only **********/
